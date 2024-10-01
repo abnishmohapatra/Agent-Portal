@@ -1,0 +1,22 @@
+.dashbody{
+    display: flex;
+    height: 80vh; 
+
+}
+.xyz{
+    margin-right: 150%;
+}
+
+.leftside-div {
+    width: 19%;
+    height: 150%;
+    background-color: #DFDFF6; /* Example background color */
+    
+    
+}
+
+.rightside-div {
+    
+    background-color: #ffffff; 
+    height: 100%;
+}

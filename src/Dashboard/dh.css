@@ -1,0 +1,82 @@
+.dashbody{
+    display: flex;
+
+
+    
+}
+.leftside-div{
+    height: 100vh;
+    width: 16%;
+    background-color: #DFDFF6;
+}
+.rightside-div{
+    height: 23vh;
+    width: 69%;
+    background-color: #9f9ff0;
+}
+.mno{
+    margin-right: 9%;
+    margin-left: 8%;
+    cursor: pointer;
+}
+.ghi{
+    margin-right: 14%;
+}
+.jkl{
+    margin-right: -2%;
+    margin-left: 8%;
+    cursor: pointer;
+}
+.xyz{
+    margin-right: 21%;
+    margin-left: 8%;
+    cursor: pointer;
+}
+
+/* Group */
+.rightside-div{
+position: absolute;
+left: 22.15%;
+right: 7.99%;
+top: 17.77%;
+bottom: 61.72%;
+text-align: center;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.tiy{
+    margin-top: 3rem;
+}
+.asa{
+position: absolute;
+left: 28rem;
+top: 25rem;
+background-color: #5252ce;
+width: 20rem;
+height: 10rem;
+text-align: center;
+/* margin-top: 3rem; */
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+.sam{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.chala{
+    position: absolute;
+    right: 15rem;
+    top: 25rem;
+    background-color: #5252ce;
+    width: 20rem;
+    text-align: center;
+    height: 10rem;
+    /* margin-top: 3rem; */
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    
+    }
+    .ana{
+        margin-top: 3rem;
+        text-align: center;
+    }

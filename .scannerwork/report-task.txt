@@ -1,0 +1,6 @@
+projectKey=Agent-Portal-FrontEnd
+serverUrl=http://localhost:3500
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:3500/dashboard?id=Agent-Portal-FrontEnd
+ceTaskId=876c1874-9922-45d0-8123-0f063a740804
+ceTaskUrl=http://localhost:3500/api/ce/task?id=876c1874-9922-45d0-8123-0f063a740804
